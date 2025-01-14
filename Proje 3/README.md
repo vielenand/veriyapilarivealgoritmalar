@@ -33,13 +33,9 @@ Root 7'dir.
 10. Adım\
 2<7, 2<5 ama 2>1 ve 2<3. 3'ün soluna eklenir.
 
-`Son Hali\
-       7
-      / \
-     5   8
-    / \   \
-   1   6   9
-  / \
- 0   3
-    / \
-   2   4`
+Son Hali\
+        7
+      5    8
+    1   6    9
+  0   3
+     2 4    
