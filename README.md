@@ -1,0 +1,1 @@
+Projelerin cevaplarına, klasörlerdeki README dosyalarından ulaşabilirsiniz.
